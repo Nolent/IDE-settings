@@ -1,0 +1,7 @@
+<templateSet group="Python">
+  <template name="dlog" value="logger.debug($SELECTION$)" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>
