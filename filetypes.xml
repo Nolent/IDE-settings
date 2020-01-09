@@ -19,6 +19,7 @@
       <mapping pattern="managerRIDS" type="PLAIN_TEXT" />
       <mapping pattern="panelManagement" type="PLAIN_TEXT" />
       <mapping pattern="res" type="PLAIN_TEXT" />
+      <mapping pattern="commentIds" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
