@@ -5,7 +5,6 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <removed_mapping ext="html" approved="true" type="HTML" />
-      <mapping ext="html" type="Handlebars/Mustache" />
       <removed_mapping ext="ini" approved="true" type="Ini" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="res" type="PLAIN_TEXT" />
