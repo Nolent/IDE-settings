@@ -3,19 +3,19 @@
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.cache;.git;.hg;.svn;.vscode;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <removed_mapping ext="ini" approved="true" type="Ini" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="liste mesure" type="PLAIN_TEXT" />
-      <mapping pattern="comparaisonManager" type="PLAIN_TEXT" />
-      <mapping pattern="SessionsLegalais" type="PLAIN_TEXT" />
       <mapping pattern="config.conf" type="PLAIN_TEXT" />
-      <mapping pattern="panelManagement" type="PLAIN_TEXT" />
-      <mapping pattern="res" type="PLAIN_TEXT" />
-      <mapping pattern="managerRIDS" type="PLAIN_TEXT" />
-      <mapping pattern="test1" type="PLAIN_TEXT" />
       <mapping pattern="volvo" type="PLAIN_TEXT" />
+      <mapping pattern="SessionsLegalais" type="PLAIN_TEXT" />
+      <mapping pattern="res" type="PLAIN_TEXT" />
+      <mapping pattern="comparaisonManager" type="PLAIN_TEXT" />
+      <mapping pattern="liste mesure" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="test1" type="PLAIN_TEXT" />
+      <mapping pattern="managerRIDS" type="PLAIN_TEXT" />
+      <mapping pattern="panelManagement" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="ini" approved="true" type="Ini" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
