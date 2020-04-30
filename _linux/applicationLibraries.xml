@@ -1,0 +1,15 @@
+<application>
+  <component name="libraryTable">
+    <library name="janus" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_raw.githubusercontent.com_meetecho_janus-gateway_master_html_janus.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_raw.githubusercontent.com_meetecho_janus-gateway_master_html_janus.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
