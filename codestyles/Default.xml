@@ -34,6 +34,12 @@
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
+  <PostgresCodeStyleSettings version="2">
+    <option name="USE_GENERIC_STYLE" value="true" />
+  </PostgresCodeStyleSettings>
+  <SqlCodeStyleSettings version="2">
+    <option name="KEYWORD_CASE" value="0" />
+  </SqlCodeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
