@@ -126,6 +126,7 @@
     <option name="ignoredIdentifiers">
       <list>
         <option value="azure.cognitiveservices.speech.CancellationReason" />
+        <option value="database.schema.Recording.filter" />
       </list>
     </option>
   </inspection_tool>
