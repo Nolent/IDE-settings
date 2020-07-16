@@ -1,0 +1,10 @@
+<application>
+  <component name="dataSourceStorage" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="csdatamerge@localhost" uuid="d3e1a13b-d8cd-471e-b039-e603eaeafea9">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/csdatamerge</jdbc-url>
+    </data-source>
+  </component>
+</application>
