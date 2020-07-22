@@ -15,7 +15,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="84">
+        <list size="85">
           <item index="0" class="java.lang.String" itemvalue="aionotify" />
           <item index="1" class="java.lang.String" itemvalue="opencv-python-headless" />
           <item index="2" class="java.lang.String" itemvalue="async-timeout" />
@@ -100,6 +100,7 @@
           <item index="81" class="java.lang.String" itemvalue="Pillow" />
           <item index="82" class="java.lang.String" itemvalue="requests-toolbelt" />
           <item index="83" class="java.lang.String" itemvalue="Twisted" />
+          <item index="84" class="java.lang.String" itemvalue="sass" />
         </list>
       </value>
     </option>
