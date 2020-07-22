@@ -126,6 +126,7 @@
       <list>
         <option value="azure.cognitiveservices.speech.CancellationReason" />
         <option value="database.schema.Recording.filter" />
+        <option value="azure.cognitiveservices.speech.CancellationErrorCode" />
       </list>
     </option>
   </inspection_tool>
