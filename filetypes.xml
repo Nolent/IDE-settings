@@ -16,8 +16,8 @@
       <mapping pattern="LICENCE" type="PLAIN_TEXT" />
       <mapping pattern="core" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="ini" approved="true" type="Ini" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
