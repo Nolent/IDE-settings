@@ -15,7 +15,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="85">
+        <list size="87">
           <item index="0" class="java.lang.String" itemvalue="aionotify" />
           <item index="1" class="java.lang.String" itemvalue="opencv-python-headless" />
           <item index="2" class="java.lang.String" itemvalue="async-timeout" />
@@ -101,6 +101,8 @@
           <item index="82" class="java.lang.String" itemvalue="requests-toolbelt" />
           <item index="83" class="java.lang.String" itemvalue="Twisted" />
           <item index="84" class="java.lang.String" itemvalue="sass" />
+          <item index="85" class="java.lang.String" itemvalue="twisted" />
+          <item index="86" class="java.lang.String" itemvalue="sqlalchemy" />
         </list>
       </value>
     </option>
@@ -128,6 +130,8 @@
         <option value="database.schema.Recording.filter" />
         <option value="azure.cognitiveservices.speech.CancellationErrorCode" />
         <option value="_" />
+        <option value="icu.Collator" />
+        <option value="icu.Locale" />
       </list>
     </option>
   </inspection_tool>
