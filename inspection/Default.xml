@@ -14,7 +14,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="12">
+        <list size="14">
           <item index="0" class="java.lang.String" itemvalue="matplotlib" />
           <item index="1" class="java.lang.String" itemvalue="libsass" />
           <item index="2" class="java.lang.String" itemvalue="Jinja2" />
@@ -27,6 +27,8 @@
           <item index="9" class="java.lang.String" itemvalue="numpy" />
           <item index="10" class="java.lang.String" itemvalue="azure" />
           <item index="11" class="java.lang.String" itemvalue="msrest" />
+          <item index="12" class="java.lang.String" itemvalue="av" />
+          <item index="13" class="java.lang.String" itemvalue="cv2" />
         </list>
       </value>
     </option>
@@ -54,6 +56,8 @@
         <option value="datetime.datetime.*" />
         <option value="typing.NamedTuple.*" />
         <option value="record.presential.errno" />
+        <option value="av.*" />
+        <option value="video.decoder.cv2" />
       </list>
     </option>
   </inspection_tool>
