@@ -1,9 +1,6 @@
 <application>
   <component name="OneDarkConfig">
-    <option name="attributesStyle" value="Italic" />
-    <option name="commentStyle" value="Italic" />
-    <option name="keywordStyle" value="Italic" />
     <option name="userId" value="35fd4b9a-80b9-4322-b8fe-65c573d52f27" />
-    <option name="vivid" value="true" />
+    <option name="version" value="5.1.0" />
   </component>
 </application>
