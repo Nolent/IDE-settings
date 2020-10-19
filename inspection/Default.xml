@@ -58,6 +58,7 @@
         <option value="record.presential.errno" />
         <option value="av.*" />
         <option value="video.decoder.cv2" />
+        <option value="dbus_next.aio.proxy_object.ProxyInterface.on_prepare_for_sleep" />
       </list>
     </option>
   </inspection_tool>
