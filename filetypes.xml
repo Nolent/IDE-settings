@@ -10,6 +10,7 @@
       <mapping pattern="volvo" type="PLAIN_TEXT" />
       <mapping pattern="test1" type="PLAIN_TEXT" />
       <mapping pattern="LICENCE" type="PLAIN_TEXT" />
+      <mapping pattern="docs" type="PLAIN_TEXT" />
       <mapping pattern="panelManagement" type="PLAIN_TEXT" />
       <mapping pattern="res" type="PLAIN_TEXT" />
       <mapping pattern="managerRIDS" type="PLAIN_TEXT" />
