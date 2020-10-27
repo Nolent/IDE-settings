@@ -7,6 +7,9 @@
   </action>
   <action id="MoveLineDown" />
   <action id="MoveLineUp" />
+  <action id="ViewNavigationBar">
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
   <action id="org.igu.plugins.consolelog.CommentAllLogMessagesAction">
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
