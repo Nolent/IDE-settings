@@ -1,0 +1,9 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="RegExp" injector-id="python">
+      <display-name>Regex</display-name>
+      <prefix>r</prefix>
+      <place><![CDATA[pyLiteralExpression().and(pyMethodArgument("Pattern", 0, "foo.bar.Pattern"))]]></place>
+    </injection>
+  </component>
+</application>
